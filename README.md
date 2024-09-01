@@ -1,4 +1,6 @@
 # Amazon-Lex-ChatBot-Integration-Responsive-Conversational-Interface<br><br>
+  ![Screenshot 2024-09-01 161826](https://github.com/user-attachments/assets/310da952-4c4e-4b40-b099-758d0bb91655)<br><br>
+
 # Project Overview
 ## Objective: 
 - Develop a chatbot using Amazon Lex and integrate it with Facebook Messenger to facilitate interactive user communication.
