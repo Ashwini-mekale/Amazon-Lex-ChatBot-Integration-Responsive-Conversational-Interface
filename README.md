@@ -57,14 +57,15 @@
 ### Facebook App:
 - Purpose: Provides necessary credentials and tools to integrate with Messenger.
 - Creation: Register a new app in the Facebook Developer Portal to get the App ID and App Secret.
-## Generate Access Token:
+### Generate Access Token:
 - Purpose: Provides authentication for your bot to interact with the Facebook Page.
 - Process: Obtain the Page Access Token from the Facebook App settings for use in integration.
-## Webhook Configuration:
-### Create Webhook:
+
+### Webhook Configuration:
+#### Create Webhook:
 - Purpose: Receives messages from users and sends responses.
 - Setup: Configure your webhook endpoint to handle incoming messages and bot responses.
-### Subscribe:
+#### Subscribe:
 - Purpose: Links your Facebook App to the Page for message handling.
 - Process: Ensure the app is subscribed to the page to enable messaging features.
   <br><br>
