@@ -51,6 +51,13 @@
 - Building: Refine your bot based on test results to ensure accurate and efficient responses.
   <br><br>
 
+  ![image](https://github.com/user-attachments/assets/7fa2631d-6b88-4ecd-8483-b62b79a713f8)<br><br>
+  ![image](https://github.com/user-attachments/assets/4b45a915-1937-44e0-a0b9-b55030bde7f1)<br><br>
+
+  ![image](https://github.com/user-attachments/assets/eff82c06-a04e-4e81-b4a3-2fa58021cad9)<br><br>
+
+  ![image](https://github.com/user-attachments/assets/1dfe98a8-3083-46e9-83bf-7b2b894a411f)<br><br>
+
 # Step 2 - Set Up Facebook Messenger
 ## Create Facebook Page & App:
 ### Facebook Page:
@@ -71,6 +78,9 @@
 - Purpose: Links your Facebook App to the Page for message handling.
 - Process: Ensure the app is subscribed to the page to enable messaging features.
   <br><br>
+
+  ![image](https://github.com/user-attachments/assets/069616d1-8692-438c-8922-c914e1034849)
+<br><br>
 
 # Step 3 - Integrate Lex with Facebook Messenger
 ## Amazon Lex Integration:
@@ -112,6 +122,9 @@
 - Purpose: Make the bot accessible to all Facebook users.
 - Process: Deploy the bot following Facebook’s review process and monitor its performance.
   <br><br>
+
+  ![image](https://github.com/user-attachments/assets/fad06312-f00f-4f53-9b6d-b4df023a4d78)<br><br>
+
 
 # Conclusion
 ## Project Summary:
